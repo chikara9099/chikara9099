@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chikara9099&label=Profile%20views&color=0e75b6&style=flat" alt="chikara9099" /> </p>
 
-- 🌱 I’m currently learning **C++,Python**
+- 🌱 I’m currently learning **C++,Python,Java**
 
 - 📫 How to reach me **shahriar246d@gmail.com**
 ## #30NitesOfCode:
